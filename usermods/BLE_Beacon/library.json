@@ -1,0 +1,7 @@
+{
+  "name": "BLE_Beacon",
+  "build": { "libArchive": false },
+  "dependencies": {
+    "nkolban/ESP32 BLE Arduino": "^1.0.1"
+  }
+}
